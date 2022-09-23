@@ -235,7 +235,7 @@
     width: 100%;
   }
 
-  .form-post:nth-child(3)::after {
+  .form-post:nth-child(4)::after {
     content: "例）123-4567";
     padding: 15px;
     line-height: 40px;
