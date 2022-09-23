@@ -315,11 +315,11 @@
   }
 
   th.content-opinion {
-    width: 440px;
+    width: 500px;
   }
 
   td.content-opinion {
-    padding-right: 80px;
+    padding-right: 130px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
